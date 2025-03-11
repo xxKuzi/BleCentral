@@ -1,1 +1,1 @@
-/Users/jakub/Documents/GitHub/bluetooth/target/debug/bluetooth: /Users/jakub/Documents/GitHub/bluetooth/src/main.rs
+/Users/jakub/Documents/GitHub/Bluetooth/target/debug/bluetooth: /Users/jakub/Documents/GitHub/Bluetooth/src/main.rs
