@@ -31,7 +31,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
     }
 
     // Optionally, you can select a device based on a specific name, UUID, etc.
-    let target_device_name = "Jakub’s iPhone";  // Replace with your desired device name
+    let target_device_name = "RustBLE";  // Replace with your desired device name
     let mut target_device = None;
 
     for device in devices {
