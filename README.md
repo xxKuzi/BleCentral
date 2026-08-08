@@ -1,4 +1,4 @@
-It can list all avaible devices
+It can list all available devices
 
 and try to connect to them
 
