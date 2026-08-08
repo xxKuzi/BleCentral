@@ -2,4 +2,4 @@ It can list all available devices
 
 and try to connect to them
 
-Not sure if writing to connected device works
+writing to connected device - not tested yet
